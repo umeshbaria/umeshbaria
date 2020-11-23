@@ -1,10 +1,11 @@
-  ### Hi 👋, I'm Umesh Baria
-
-- 🔭 I’m currently working on microsoft .net and xamarin
+  <h1 align="center">Hi 👋, I'm Umesh Baria</h1>
+  <h3 align="center">A software developer from India, GJ</h3>
+  
+- 🔭 I’m currently working on **microsoft .net and xamarin**
 - 🌱 I’m currently learning 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about .net, c#, wpf, xamarin, winforms, sql
-- 📫 How to reach me: umesh_21@live.com
+- 💬 Ask me about **.net, c#, wpf, xamarin, winforms, sql**
+- 📫 How to reach me: **umesh_21@live.com**
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
