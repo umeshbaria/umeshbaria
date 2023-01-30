@@ -1,7 +1,7 @@
   <h1 align="center">Hi 👋, I'm Umesh Baria</h1>
-  <h3 align="center">A software developer from India, GJ</h3>
+  <h3 align="center">A senior software engineer from India, GJ</h3>
   
-- 🔭 I’m currently working on **microsoft .net and xamarin**
+- 🔭 I’m currently working on **microsoft .net **
 - 🌱 I’m currently learning 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
